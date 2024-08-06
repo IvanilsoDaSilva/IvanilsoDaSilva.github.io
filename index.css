@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.div-top {
+  background-color: gray;
+}
+
+.div-down {
+  background-color: gray;
+}
+
+.div-mid {
+  height: 20rem;
+  display: flex;
+}
+
+.div-left {
+  width: 10%;
+}
+
+.div-right {
+  width: 90%;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+li {
+  background-color: grey;
+  margin: auto;
+  padding: 1px;
+}
+
+li:hover {
+  background-color: red;
+}
